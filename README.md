@@ -5,7 +5,9 @@
 
 
 
-<!--activity_main-->
+//activity_main
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -143,7 +145,9 @@
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-<!--activity_main2-->
+//activity_main2
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -284,7 +288,7 @@
     
     
 
-  <!--activity_main3-->
+    //activity_main3
   
   <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -423,7 +427,9 @@
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-<!--activity_main4-->
+//activity_main4
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -552,7 +558,9 @@
 
 
 
-  <!--activity_main5-->
+//activity_main5
+  
+  
   <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -682,6 +690,8 @@
 
 
 // MainActivity
+
+
 package com.example.anketodev;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -720,6 +730,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 // MainActivity2
+
+
 package com.example.anketodev;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -758,6 +770,8 @@ public class MainActivity2 extends AppCompatActivity {
 }
 
 // MainActivity3
+
+
 package com.example.anketodev;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -795,6 +809,8 @@ public class MainActivity3 extends AppCompatActivity {
 }
 
 // MainActivity4
+
+
 package com.example.anketodev;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -832,6 +848,8 @@ public class MainActivity4 extends AppCompatActivity {
 }
 
 // MainActivity5
+
+
 package com.example.anketodev;
 
 import androidx.appcompat.app.AppCompatActivity;
